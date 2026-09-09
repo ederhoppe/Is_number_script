@@ -1,4 +1,4 @@
-# Validador_Numeri
+# Descripción
 
 Script interactivo en Python diseñado para analizar cadenas de texto ingresadas por el usuario y determinar si están compuestas únicamente por caracteres numéricos.
 
@@ -8,7 +8,4 @@ Script interactivo en Python diseñado para analizar cadenas de texto ingresadas
 * Interrupción de ciclo optimizada (`break`) al detectar la primera inconsistencia.
 
 ## Requisitos
-* Python 3.x
-
-## Ejecución
-Clona el repositorio y ejecuta el script en tu terminal:
+* Python 3.
