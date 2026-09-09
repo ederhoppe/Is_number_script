@@ -8,4 +8,4 @@ Script interactivo en Python diseñado para analizar cadenas de texto ingresadas
 * Interrupción de ciclo optimizada (`break`) al detectar la primera inconsistencia.
 
 ## Requisitos
-* Python 3.
+
