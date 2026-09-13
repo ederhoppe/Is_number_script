@@ -4,7 +4,7 @@ Script interactivo en Python diseñado para analizar cadenas de texto ingresadas
 
 ## Características
 * Validaciones mediante control de flujo (`for` y condicionales `if-else`).
-* Uso de métodos nativos de cadenas (`.isdigit()`) para la verificación carácter por carácter.
+* Uso de métodos nativos de cadenas (`.isdigit()`) para la verificación 
 
 
 
