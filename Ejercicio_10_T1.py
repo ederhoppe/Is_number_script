@@ -5,7 +5,7 @@ string = input('Ingresa una clave alfanumerica: ')
 numero = False 
 
 for caracter in string:
-    if caracter.isdigit():
+    if string.isdigit(caracter):
         numero = True
         break #si ya encontramos uno, no hay que seguir buscando 
 
