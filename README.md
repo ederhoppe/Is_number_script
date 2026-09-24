@@ -10,4 +10,4 @@ Script interactivo en Python diseñado para analizar cadenas de texto ingresadas
 
 * **Evaluación de Cadenas:** Uso del método nativo .isdigit() para la validación de caracteres numéricos.
 
-* **Salida Formateada:** Implementación de f-strings para desplegar mensajes dinámicos según la validac
+* **Salida Formateada:** Implementación de f-strings para desplegar mensajes dinámicos 
